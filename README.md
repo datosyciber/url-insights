@@ -18,7 +18,11 @@ Una de las grandes ventajas de este modelo es que no requiere una exigente prepa
 
 ## Regresión logística
 
+La regresión logística es un caso especial del análisis de regresión y se utiliza cuando la variable dependiente tiene una escala nominal. Se utilizan cálculos matemáticos para encontrar las relaciones entre dos factores de datos. Luego, utiliza esta relación para predecir el valor de uno de esos factores basándose en el otro. Normalmente, la predicción tiene un número finito de resultados, como en nuestro caso si un enlace es malicioso o benigno. Al realizar predicciones, el modelo estima la probabilidad de que un individuo pertenezca o no a cada clase.
 
+Las variables independiendes son aquellas características de los enlaces que utilizamos para poder determinar la probabilidad de que un enlace sea malicioso o no, que corresponde a la variable dependiente dicotómica. Para asegurar que los valores predichos están dentro de un intervalo entre 0 y 1, el modelo se construye haciendo uso de una función logística.
+- El método de máxima verosimilitud es uno de los varios métodos utilizados en estadística para estimar los parámetros de un modelo matemático. Con él se determinan los parámetros del modelo de la ecuación de regresión logística.
 
 ### Fuentes
 [1] https://www.ibm.com/es-es/think/topics/decision-trees
+[2] https://datatab.es/tutorial/logistic-regression
