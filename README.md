@@ -16,7 +16,7 @@ La **impureza de Gini*** es la probabilidad de clasificar incorrectamente un pun
 
 Una de las grandes ventajas de este modelo es que no requiere una exigente preparación de los datos, acepta valores discretos o continuos, y los valores continuos se pueden convertir en valores categóricos mediante el uso de umbrales, e incluso valores faltantes. Uno de los inconvenientes más relevantes de este modelo es que tiende al sobreajuste, por lo que hay que como se comentaba anteriormente, es mejor mantener la simplicidad para evitar que esto ocurra.
 
-## Regresión legística
+## Regresión logística
 
 
 
