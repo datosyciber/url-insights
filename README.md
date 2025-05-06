@@ -25,4 +25,5 @@ Las variables independiendes son aquellas características de los enlaces que ut
 
 ### Fuentes
 [1] https://www.ibm.com/es-es/think/topics/decision-trees
+
 [2] https://datatab.es/tutorial/logistic-regression
